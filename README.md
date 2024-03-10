@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Angular, CI/CD, Docker, Cloud**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/patryk47853](https://github.com/patryk47853)
+- 👨‍💻 All of my projects are available at: [https://github.com/patryk47853?tab=repositories](https://github.com/patryk47853?tab=repositories)
 
 - 💬 Ask me about **everything :)**
 
