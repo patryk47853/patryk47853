@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Cinemate](https://github.com/patryk47853/Cinemate)
 
-- 🌱 I’m currently learning **JavaScript, React, Angular, CI/CD, Docker, Cloud**
+- 🌱 I’m currently learning **JavaScript, React, Angular, CI/CD, Docker, Cloud (AWS)**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/patryk47853?tab=repositories](https://github.com/patryk47853?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/patryk47853?tab=repositories)
 
 - 💬 Ask me about **everything :)**
 
