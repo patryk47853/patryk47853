@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Patryk. I am an aspiring Junior Java Developer.
+### My name is Patryk. I am Junior Java Developer.
 
 - 🔭 I am currently working on [Cinemate](https://github.com/patryk47853/Cinemate)
 
